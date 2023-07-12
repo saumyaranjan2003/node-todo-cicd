@@ -15,11 +15,6 @@ Run these commands:
 
 or Run by docker compose
 or docker ps
-hello world
-test
-helloo world
-test
 
-
-test
+testing
 
